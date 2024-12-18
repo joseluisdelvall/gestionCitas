@@ -9,6 +9,4 @@
     define('MODEL_PATH', 'app/modelos/');
     define('VIEW_PATH', 'app/vistas/');
 
-    define('LIBS_PATH', 'libs/');
-    
 ?>
